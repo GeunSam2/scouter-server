@@ -1,0 +1,61 @@
+20190923 17:09:15 Scouter Server Version 2.7.0 2019-06-23 12:59 GMT
+  ____                  _            
+ / ___|  ___ ___  _   _| |_ ___ _ __ 
+ \___ \ / __/   \| | | | __/ _ \ '__|
+  ___) | (_| (+) | |_| | ||  __/ |   
+ |____/ \___\___/ \__,_|\__\___|_|                                      
+ Open Source S/W Performance Monitoring  
+ Scouter version 2.7.0
+ 
+20190923 17:09:15 Load Account Group File
+20190923 17:09:15 Load Account File
+20190923 17:09:15 Load Account Group File
+20190923 17:09:15 udp listen 0.0.0.0:6100
+20190923 17:09:15 	udp_host=0.0.0.0
+20190923 17:09:15 	udp_port=6100
+20190923 17:09:15 	udp_buffer=65535
+20190923 17:09:15 	udp_so_rcvbuf=4194304
+20190923 17:09:15 Load Account File
+20190923 17:09:15 	tcp_port=6100
+20190923 17:09:15 	cp_agent_so_timeout=60000
+20190923 17:09:15 	cp_client_so_timeout=8000
+20190923 17:09:20 [S215] Alert rule detected : ErrorRate.alert
+20190923 17:09:20 PLUG-IN : scouter.server.plugin.IAlert loaded #x7nqf6g
+20190923 17:09:20 PLUG-IN : scouter.server.plugin.ICounter loaded #x1cn9q2s
+20190923 17:09:20 PLUG-IN : scouter.server.plugin.IObject loaded #x8f6qh4
+20190923 17:09:20 PLUG-IN : scouter.server.plugin.IXLog loaded #xu6gam3
+20190923 17:09:20 PLUG-IN : scouter.server.plugin.IXLog loaded #x1a1v6o2
+20190923 17:09:20 PLUG-IN : scouter.server.plugin.IXLogProfile loaded #xn17hf2
+20190923 17:09:20 PLUG-IN : scouter.server.plugin.ISummary loaded #xeh68ib
+20190923 17:23:21 [S178] Server Shutdown
+20190923 17:23:21 [S179] Shutdown scouter.server.db.DBCtr$$anon$1@5b03b9fe ...
+20190923 17:23:21 [S179] Shutdown scouter.server.core.CoreRun$$anon$1@37d4349f ...
+20190923 08:27:03 Scouter Server Version 2.7.0 2019-06-23 12:59 GMT
+  ____                  _            
+ / ___|  ___ ___  _   _| |_ ___ _ __ 
+ \___ \ / __/   \| | | | __/ _ \ '__|
+  ___) | (_| (+) | |_| | ||  __/ |   
+ |____/ \___\___/ \__,_|\__\___|_|                                      
+ Open Source S/W Performance Monitoring  
+ Scouter version 2.7.0
+ 
+20190923 08:27:03 Load Account Group File
+20190923 08:27:03 Load Account File
+20190923 08:27:03 udp listen 0.0.0.0:6100
+20190923 08:27:03 	udp_host=0.0.0.0
+20190923 08:27:03 	udp_port=6100
+20190923 08:27:03 	udp_buffer=65535
+20190923 08:27:03 	udp_so_rcvbuf=4194304
+20190923 08:27:03 Load Account Group File
+20190923 08:27:03 Load Account File
+20190923 08:27:03 	tcp_port=6100
+20190923 08:27:03 	cp_agent_so_timeout=60000
+20190923 08:27:03 	cp_client_so_timeout=8000
+20190923 08:27:08 [S215] Alert rule detected : ErrorRate.alert
+20190923 08:27:08 PLUG-IN : scouter.server.plugin.IAlert loaded #x13actms
+20190923 08:27:08 PLUG-IN : scouter.server.plugin.ICounter loaded #x692ksv
+20190923 08:27:08 PLUG-IN : scouter.server.plugin.IObject loaded #x16udtim
+20190923 08:27:08 PLUG-IN : scouter.server.plugin.IXLog loaded #x1it7n1c
+20190923 08:27:08 PLUG-IN : scouter.server.plugin.IXLog loaded #x1cdlcul
+20190923 08:27:08 PLUG-IN : scouter.server.plugin.IXLogProfile loaded #x1i7e3ng
+20190923 08:27:08 PLUG-IN : scouter.server.plugin.ISummary loaded #x1l711cl

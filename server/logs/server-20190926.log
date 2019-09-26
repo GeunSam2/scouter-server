@@ -1,0 +1,37 @@
+20190926 12:04:32 Scouter Server Version 2.7.0 2019-06-23 12:59 GMT
+  ____                  _            
+ / ___|  ___ ___  _   _| |_ ___ _ __ 
+ \___ \ / __/   \| | | | __/ _ \ '__|
+  ___) | (_| (+) | |_| | ||  __/ |   
+ |____/ \___\___/ \__,_|\__\___|_|                                      
+ Open Source S/W Performance Monitoring  
+ Scouter version 2.7.0
+ 
+20190926 12:04:32 Load Account Group File
+20190926 12:04:32 Load Account File
+20190926 12:04:32 udp listen 0.0.0.0:6100
+20190926 12:04:32 	udp_host=0.0.0.0
+20190926 12:04:32 	udp_port=6100
+20190926 12:04:32 	udp_buffer=65535
+20190926 12:04:32 	udp_so_rcvbuf=4194304
+20190926 12:04:32 Load Account Group File
+20190926 12:04:32 Load Account File
+20190926 12:04:33 	tcp_port=6100
+20190926 12:04:33 	cp_agent_so_timeout=60000
+20190926 12:04:33 	cp_client_so_timeout=8000
+20190926 12:04:37 [S215] Alert rule detected : ErrorRate.alert
+20190926 12:04:38 PLUG-IN : scouter.server.plugin.IAlert loaded #x1qdpop2
+20190926 12:04:38 PLUG-IN : scouter.server.plugin.ICounter loaded #x1o9f80
+20190926 12:04:38 PLUG-IN : scouter.server.plugin.IObject loaded #x1tm5l4s
+20190926 12:04:38 PLUG-IN : scouter.server.plugin.IXLog loaded #x1j7gt2v
+20190926 12:04:38 PLUG-IN : scouter.server.plugin.IXLog loaded #x1fkb9
+20190926 12:04:38 PLUG-IN : scouter.server.plugin.IXLogProfile loaded #xcc10k2
+20190926 12:04:39 PLUG-IN : scouter.server.plugin.ISummary loaded #xd61l3p
+20190926 12:09:28 [S104] New OBJECT  objType=tomcat objHash=z57al84 objName=/9c494e22b300/test-app-2 addr=172.17.0.2 2.7.0 2019-06-23 12:59 GMT_ENV_java8plus alive 2019-09-26 12:09:28.878 {detected=tomcat,ADC=false}
+20190926 12:09:28 [S104] New OBJECT  objType=reqproc objHash=zncppav objName=/9c494e22b300/test-app-2/http-nio-8080 addr=172.17.0.1 alive 2019-09-26 12:09:28.883
+20190926 12:09:31 [S104] New OBJECT  objType=tomcat objHash=zr871l8 objName=/21cc3f0f12a7/test-app-1 addr=172.17.0.2 2.7.0 2019-06-23 12:59 GMT_ENV_java8plus alive 2019-09-26 12:09:31.157 {detected=tomcat,ADC=false}
+20190926 12:09:31 [S104] New OBJECT  objType=reqproc objHash=xdm5rg7 objName=/21cc3f0f12a7/test-app-1/http-nio-8080 addr=192.168.0.248 alive 2019-09-26 12:09:31.158
+20190926 12:09:31 [S104] New OBJECT  objType=tomcat objHash=x1ro890e objName=/5300cb095fd4/sessionclustering addr=172.17.0.5 2.7.0 2019-06-23 12:59 GMT_ENV_java8plus alive 2019-09-26 12:09:31.159 {detected=tomcat,ADC=false}
+20190926 12:09:31 [S104] New OBJECT  objType=reqproc objHash=zt8s2tk objName=/5300cb095fd4/sessionclustering/http-nio-8080 addr=192.168.0.248 alive 2019-09-26 12:09:31.16
+20190926 12:09:31 [S104] New OBJECT  objType=linux objHash=zt87fst objName=/localhost.localdomain addr=11.164.140.155 2.7.0 2019-06-23 12:59 GMT alive 2019-09-26 12:09:31.901 {detected=linux}
+20190926 12:09:40 [S145] GeoIP db file is not readable : /server/conf/GeoLiteCity.dat
